@@ -1,4 +1,4 @@
-# Hi there 👋, myself Murtuza!
+:wave: # Hi there 👋, myself Murtuza!
 ## A tech enthusiast who loves to solve problems and a passionate blogger!
 
 
