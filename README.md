@@ -1,13 +1,13 @@
-# :wave: Hi there :wave:, myself Murtuza!
+# :wave: Hi there, myself Murtuza!
 ## A tech enthusiast who loves to solve problems and a passionate blogger!
 
 
-### Languages Used
+## Languages Used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtuzaalisurti)](https://github.com/murtuzaalisurti)
 
 
-### Performance
+## Performance
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=murtuzaalisurti&show_icons=true)  
 
