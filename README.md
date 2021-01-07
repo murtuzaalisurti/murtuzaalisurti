@@ -1,6 +1,6 @@
 ### Hi there 👋, myself Murtuza!
-A tech enthusiast who loves to solve problems!
-Also, a passionate blogger!
+## A tech enthusiast who loves to solve problems!
+# Also, a passionate blogger!
 
 
 ### Languages Used
