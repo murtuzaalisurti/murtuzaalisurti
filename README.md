@@ -1,4 +1,4 @@
-<center # :wave: Hi there, myself Murtuza!</center>
+# :wave: Hi there, myself Murtuza!
 #### _A tech enthusiast who loves to solve problems and a passionate blogger!_
 
 
