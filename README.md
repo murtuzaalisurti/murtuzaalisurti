@@ -1,5 +1,5 @@
 <h1 align='center'> :wave: Hi there, myself Murtuza!</h1>
-<h4 align='center'> _A tech enthusiast who loves to solve problems and a passionate blogger!_</h4>
+<h4 align='center'><i>A tech enthusiast who loves to solve problems and a passionate blogger!</i></h4>
 
 
 ## Languages Used
