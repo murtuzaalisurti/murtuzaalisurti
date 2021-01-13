@@ -4,17 +4,18 @@
 
 <h2 align='center'>Languages Used</h2>
 
-<a align='center' href="https://github.com/murtuzaalisurti">
-  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtuzaalisurti&theme=dark&layout=compact" />
-</a><br>
+<p align='center'><a href="https://github.com/murtuzaalisurti">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtuzaalisurti&theme=dark&layout=compact" />
+</a></p>
 
+<h2 align='center'>Performance</h2>
 
 <p align='center'><a href="https://github.com/murtuzaalisurti">
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=murtuzaalisurti&theme=dark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=murtuzaalisurti&theme=dark&show_icons=true" />
 </a></p>
 
 
-## Performance
+<h2 align='center'>Performance</h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=murtuzaalisurti&theme=dark&show_icons=true)  
 
