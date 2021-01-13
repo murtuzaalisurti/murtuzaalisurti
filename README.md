@@ -5,7 +5,7 @@
 <h2 align='center'>Languages Used</h2>
 
 <a href="https://github.com/murtuzaalisurti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtuzaalisurti&theme=dark&layout=compact" />
+  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtuzaalisurti&theme=dark&layout=compact" />
 </a>
 
 <a href="https://github.com/murtuzaalisurti">
