@@ -15,8 +15,3 @@
 </a></p>
 
 
-<h2 align='center'>Performance</h2>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=murtuzaalisurti&theme=dark&show_icons=true)  
-
-
