@@ -4,11 +4,11 @@
 
 ## Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtuzaalisurti)](https://github.com/murtuzaalisurti)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtuzaalisurti&theme=dark)](https://github.com/murtuzaalisurti)
 
 
 ## Performance
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=murtuzaalisurti&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=murtuzaalisurti&theme=dark&show_icons=true)  
 
 
