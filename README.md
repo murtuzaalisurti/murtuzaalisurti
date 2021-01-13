@@ -4,7 +4,7 @@
 
 ## Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtuzaalisurti&theme=dark)](https://github.com/murtuzaalisurti)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtuzaalisurti&theme=dark&layout=compact)](https://github.com/murtuzaalisurti)
 
 
 ## Performance
