@@ -14,9 +14,6 @@
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtuzaalisurti&theme=dark&layout=compact)](https://github.com/murtuzaalisurti)
-
-
 ## Performance
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=murtuzaalisurti&theme=dark&show_icons=true)  
