@@ -9,9 +9,9 @@
 </a><br>
 
 
-<a href="https://github.com/murtuzaalisurti">
+<p align='center'><a href="https://github.com/murtuzaalisurti">
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=murtuzaalisurti&theme=dark&show_icons=true" />
-</a>
+</a></p>
 
 
 ## Performance
