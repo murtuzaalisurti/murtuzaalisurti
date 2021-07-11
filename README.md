@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/LOnt6uqjD9OexmQJRB" width="100%" height="100%" style="position:absolute" class="giphy-embed"><p><a href="https://giphy.com/stickers/LOnt6uqjD9OexmQJRB">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="100%" height="100%">
 <h1 align='center'> :wave: Hi there, myself Murtuza!</h1>
 <h4 align='center'><i>A tech enthusiast who loves to solve problems and a passionate blogger!</i></h4>
 
