@@ -1,5 +1,4 @@
-<img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="20px" height="20px">
-<h1 align='center'> :wave: Hi there, myself Murtuza!</h1>
+<img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="50px" height="50px"><h1 align='center'> :wave: Hi there, myself Murtuza!</h1>
 <h4 align='center'><i>A tech enthusiast who loves to solve problems and a passionate blogger!</i></h4>
 
 
