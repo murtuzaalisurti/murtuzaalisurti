@@ -1,4 +1,4 @@
-<h1 align="center">Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">,&nbsp;myself Murtuza!</h1>
+<h1 align="center">Hey,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">&nbsp;myself Murtuza!</h1>
 <h4 align='center'><i>A tech enthusiast who loves to solve problems and a passionate blogger!</i></h4>
 
 
