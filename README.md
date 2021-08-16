@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=murtuzaalisurti)
-
 <h1 align="center">Hey,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">&nbsp;myself Murtuza!</h1>
 <h4 align='center'><i>A tech enthusiast who loves to solve problems and a passionate blogger!</i></h4>
 
@@ -15,5 +13,7 @@
 <p align='center'><a href="https://github.com/murtuzaalisurti">
   <img src="https://github-readme-stats.vercel.app/api?username=murtuzaalisurti&theme=dark&show_icons=true&hide=issues" />
 </a></p>
+
+![](https://komarev.com/ghpvc/?username=murtuzaalisurti)
 
 
