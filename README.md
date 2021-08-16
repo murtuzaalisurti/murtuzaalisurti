@@ -14,6 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=murtuzaalisurti&theme=dark&show_icons=true&hide=issues" />
 </a></p>
 
-![](https://komarev.com/ghpvc/?username=murtuzaalisurti)
+![](https://komarev.com/ghpvc/?username=murtuzaalisurti&color=blueviolet)
 
 
