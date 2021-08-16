@@ -15,6 +15,6 @@
 </a></p>
 
 [![](https://komarev.com/ghpvc/?username=murtuzaalisurti&color=blueviolet&label=Visits)](https://github.com/murtuzaalisurti)
-<img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=red&logo=web">
+[<img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=red&logo=web">](https://murtuzaalisurti.github.io)
 
 
