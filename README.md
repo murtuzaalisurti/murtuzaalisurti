@@ -15,7 +15,6 @@
 </a></p>
 
 [![Murtuza's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=murtuzaalisurti&theme=react-dark)](https://github.com/murtuzaalisurti)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=murtuzaalisurti&theme=black-ice&hide_border=true)](https://github.com/murtuzaalisurti)
 
 [![](https://komarev.com/ghpvc/?username=murtuzaalisurti&color=blueviolet&label=Visits)](https://github.com/murtuzaalisurti)
