@@ -14,6 +14,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=murtuzaalisurti&theme=dark&show_icons=true&hide=issues" />
 </a></p>
 
+[![Murtuza's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=murtuzaalisurti&theme=react-dark)](https://github.com/murtuzaalisurti)
+
 [![](https://komarev.com/ghpvc/?username=murtuzaalisurti&color=blueviolet&label=Visits)](https://github.com/murtuzaalisurti)
 [<img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=red&logo=web">](https://murtuzaalisurti.github.io)
 [<img src="https://img.shields.io/static/v1?label=&message=Twitter&color=ffffff&logo=twitter">](https://twitter.com/murtuza_surti)
