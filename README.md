@@ -11,7 +11,7 @@
 <h2 align='center'>Performance</h2>
 
 <p align='center'><a href="https://github.com/murtuzaalisurti">
-  <img src="https://github-readme-stats.vercel.app/api?username=murtuzaalisurti&theme=dark&show_icons=true&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=murtuzaalisurti&theme=dark&show_icons=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=murtuzaalisurti&theme=black-ice&hide_border=true" />
 </a></p>
 
