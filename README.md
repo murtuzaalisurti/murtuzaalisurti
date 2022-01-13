@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtuzaalisurti&theme=dark&layout=compact&langs_count=10" />
 </a></p>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?murtuzaalisurti" frameborder="0"></iframe>
+<img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?murtuzaalisurti"></img>
 
 <h2 align='center'>Performance</h2>
 
