@@ -8,6 +8,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtuzaalisurti&theme=dark&layout=compact&langs_count=10" />
 </a></p>
 
+<!--START_SECTION:waka-->
+```text
+JavaScript   9 mins          █████████████████▓░░░░░░░   70.13 % 
+Other        2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+CSS          1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+```
+<!--END_SECTION:waka-->
 
 <h2 align='center'>Performance</h2>
 
