@@ -19,7 +19,7 @@
 <h2 align='center'>Languages I've worked with</h2>
 
 <p align='center'>
-  <img src="https://wakatime.com/share/@murtuzaalisurti/907c8df9-056c-441c-b4ed-baf3c33b5d5c.svg" style="width: 70%; height= auto;" />
+  <img src="https://wakatime.com/share/@murtuzaalisurti/c83fa1b8-c978-4caf-94c5-2ac8d76b861f.svg" style="width: 70%; height= auto;" />
 </p>
 
 [![Murtuza's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=murtuzaalisurti&theme=react-dark)](https://github.com/murtuzaalisurti)
