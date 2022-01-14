@@ -16,7 +16,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=murtuzaalisurti&theme=black-ice" />
 </a></p>
 
-<figure><embed src="https://wakatime.com/share/@murtuzaalisurti/c209cd99-bee6-4aed-a1dc-055739a7e50f.svg"></embed></figure>
+<img src="https://wakatime.com/share/@murtuzaalisurti/c209cd99-bee6-4aed-a1dc-055739a7e50f.svg" />
 
 [![Murtuza's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=murtuzaalisurti&theme=react-dark)](https://github.com/murtuzaalisurti)
 
