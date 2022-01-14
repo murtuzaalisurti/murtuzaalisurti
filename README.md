@@ -17,6 +17,7 @@
 </a></p>
 
 <p align='center'>
+  <h2>Languages I've worked with</h2>
   <img src="https://wakatime.com/share/@murtuzaalisurti/907c8df9-056c-441c-b4ed-baf3c33b5d5c.svg" style="width: 70%; height= auto;" />
 </p>
 
