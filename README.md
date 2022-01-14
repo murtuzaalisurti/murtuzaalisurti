@@ -16,8 +16,9 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=murtuzaalisurti&theme=black-ice" />
 </a></p>
 
+<h2 align='center'>Languages I've worked with</h2>
+
 <p align='center'>
-  <h2>Languages I've worked with</h2>
   <img src="https://wakatime.com/share/@murtuzaalisurti/907c8df9-056c-441c-b4ed-baf3c33b5d5c.svg" style="width: 70%; height= auto;" />
 </p>
 
