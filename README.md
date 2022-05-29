@@ -1,5 +1,14 @@
 <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">&nbsp;&nbsp;Hey, myself Murtuza!</h1>
-<p align='center'><em><b>Front-end Web Developer</b>, aspiring <b>Full Stack Developer</b> as well as a <b>Blogger</b>!</em></p>
+<p align='center'><b>Full Stack Developer</b> as well as a <b>Content Creator</b>!</p>
+
+<br />
+<br />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,react,styledcomponents,netlify,nextjs,redux,bash,bootstrap,tailwind,vite,vscode,webpack,jquery,codepen,figma,git,github,heroku,java,md,materialui,mongodb,mysql&theme=dark&perline=9" />
+  </a>
+</p>
 
 ---
 
