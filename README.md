@@ -1,7 +1,7 @@
 <h1 align="center">Hey, myself Murtuza!</h1>
 <p align='center'><b>Full Stack Developer</b> as well as a <b>Content Creator</b>!</p>
 
-<br />
+
 <br />
 
 <p align="center">
@@ -33,8 +33,10 @@
   <img src="https://wakatime.com/share/@murtuzaalisurti/c83fa1b8-c978-4caf-94c5-2ac8d76b861f.svg" style="width: 70%; height= auto;" />
 </p>
 
+---
+
 <div>
-  <h1 align="center">Coding Time</h1>
+  <h2 align="center">Coding Time</h2>
   <p align="center"><a href="https://wakatime.com/@0112ced1-d1d0-499a-800d-64371513f9c6"><img src="https://wakatime.com/badge/user/0112ced1-d1d0-499a-800d-64371513f9c6.svg" alt="Total time coded since Jan 13 2022" /></a></p>
 </div>
 
@@ -43,6 +45,8 @@
 [![Murtuza's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=murtuzaalisurti&theme=react-dark)](https://github.com/murtuzaalisurti)
 
 ---
+
+<br />
 
 <h2 align='center'>Latest Blog Posts - Syntackle</h2>
 
