@@ -48,13 +48,7 @@
 
 <p align='center'>
 <ul>
-<!-- BLOG-POST-LIST:START -->
-- [Eleventy - Shortcode for Embedding Codepen](https://syntackle.live/blog/eleventy-shortcode-for-embedding-codepen-ZyslIPzCHpJo3kkPwu2U/)
-- [5 Most Useful Visual Studio Code Extensions](https://syntackle.live/blog/5-vscode-extensions-you-must-use-JTRFImxbBtrq6btizBCJ/)
-- [How to create and deploy an Express.js app to Vercel?](https://syntackle.live/blog/how-to-create-and-deploy-an-express-js-app-to-vercel-ljgvGrsCH7ioHsAxuw3G/)
-- [Optional Chaining in JavaScript](https://syntackle.live/blog/optional-chaining-in-javascript-D6SuXGtu0-K5hhtZUqqc/)
-- [How to compile SASS into CSS and watch for changes?](https://syntackle.live/blog/how-to-compile-sass-into-css-and-watch-for-changes-5MHo7HhHUHUedZXaP62y/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><li><a href='https://syntackle.live/blog/eleventy-shortcode-for-embedding-codepen-ZyslIPzCHpJo3kkPwu2U/'>Eleventy - Shortcode for Embedding Codepen</a></li><li><a href='https://syntackle.live/blog/5-vscode-extensions-you-must-use-JTRFImxbBtrq6btizBCJ/'>5 Most Useful Visual Studio Code Extensions</a></li><li><a href='https://syntackle.live/blog/how-to-create-and-deploy-an-express-js-app-to-vercel-ljgvGrsCH7ioHsAxuw3G/'>How to create and deploy an Express.js app to Vercel?</a></li><li><a href='https://syntackle.live/blog/optional-chaining-in-javascript-D6SuXGtu0-K5hhtZUqqc/'>Optional Chaining in JavaScript</a></li><li><a href='https://syntackle.live/blog/how-to-compile-sass-into-css-and-watch-for-changes-5MHo7HhHUHUedZXaP62y/'>How to compile SASS into CSS and watch for changes?</a></li><!-- BLOG-POST-LIST:END -->
 </ul>
 </p>
 
