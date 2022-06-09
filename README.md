@@ -44,6 +44,13 @@
 
 ---
 
+<h2 align='center'>Latest Blog Posts - Syntackle</h2>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <p align="center">
   <a href="https://wakatime.com/@0112ced1-d1d0-499a-800d-64371513f9c6"><img src="https://wakatime.com/badge/user/0112ced1-d1d0-499a-800d-64371513f9c6.svg" alt="Total time coded since Jan 13 2022" /></a>
   <img src="https://komarev.com/ghpvc/?username=murtuzaalisurti&color=blueviolet&label=Visits" alt="visits" />
