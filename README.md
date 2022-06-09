@@ -56,7 +56,7 @@
 
 <br />
 
-<p align='center'><a href="https://syntackle.live">Visit my blog</a></p>
+<p align='center'><a href="https://syntackle.live"><b>Visit my blog</b></a></p>
 
 ---
 
