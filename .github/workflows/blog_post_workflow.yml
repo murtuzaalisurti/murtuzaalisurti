@@ -14,7 +14,7 @@ jobs:
       - name: Pull in syntackle posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
+          commit_message: "fetched and updated readme with latest blog posts"
+          feed_list: "https://syntackle.live/feed.xml"
           max_post_count: 5
           template: [$title]($url) - $date
-          feed_list: "https://syntackle.live/feed.xml"
-          commit_message: "fetched and updated readme with latest blog posts"
