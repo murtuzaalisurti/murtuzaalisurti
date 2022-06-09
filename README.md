@@ -46,8 +46,10 @@
 
 <h2 align='center'>Latest Blog Posts - Syntackle</h2>
 
+<p align='center'>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+</p>
 
 ---
 
