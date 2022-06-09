@@ -15,6 +15,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 5
-          template: - [$title]($url) - $date
+          template: [$title]($url) - $date
           feed_list: "https://syntackle.live/feed.xml"
           commit_message: "fetched and updated readme with latest blog posts"
