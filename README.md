@@ -1,14 +1,8 @@
 <h1 align="center">Hey, myself Murtuza!</h1>
-<p align='center'><b>Full Stack Developer</b> as well as a <b>Content Creator</b>!</p>
-
+<h3 align='center'><b>Full Stack Developer</b> as well as a <b>Content Creator</b>!</h3>
+<p align='center'>A tech geek specialized in JavaScript, writing about web development, enthusiastic about full stack developement, currently exploring JAMStack & serverless and a human who keeps a good relationship with bugs! That's it.</p>
 
 <br />
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,react,styledcomponents,netlify,nextjs,redux,bash,bootstrap,tailwind,vite,vscode,webpack,jquery,codepen,figma,git,github,heroku,java,md,materialui,mongodb,mysql&theme=dark&perline=9" />
-  </a>
-</p>
 
 ---
 
@@ -31,6 +25,14 @@
 
 <p align='center'>
   <img src="https://wakatime.com/share/@murtuzaalisurti/c83fa1b8-c978-4caf-94c5-2ac8d76b861f.svg" style="width: 70%; height= auto;" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,react,styledcomponents,netlify,nextjs,redux,bash,bootstrap,tailwind,vite,vscode,webpack,jquery,codepen,figma,git,github,heroku,java,md,materialui,mongodb,mysql&theme=dark&perline=9" />
+  </a>
 </p>
 
 ---
