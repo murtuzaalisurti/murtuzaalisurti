@@ -1,6 +1,17 @@
 <h1 align="center">Hey, myself Murtuza!</h1>
 <h3 align='center'><b>Full Stack Developer</b> as well as a <b>Content Creator</b>!</h3>
-<p align='center'>A tech geek specialized in JavaScript, writing about web development, enthusiastic about full stack developement, currently exploring JAMStack & serverless and a human who keeps a good relationship with bugs! That's it.</p>
+
+---
+<br />
+
+<p align='center'>
+  <p align='center'> -> Specialized in JavaScript</p>
+  <p align='center'> -> Enthusiastic about Full-stack Development</p>
+  <p align='center'> -> Writing about Web Development</p>
+  <p align='center'> -> A human who keeps a good relationship with bugs!</p>
+  <p align='center'> -> Currently exploring JAMStack & Serverless</p>
+</p>
+
 
 <br />
 
