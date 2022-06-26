@@ -5,11 +5,11 @@
 <br />
 
 <p align='center'>
-  <p align='center'> ✔️ Specialized in JavaScript</p>
-  <p align='center'> 🛠️ Enthusiastic about Full-stack Development</p>
-  <p align='center'> 🌏 Writing about Web Development</p>
-  <p align='center'> 🐛 A human who keeps a good relationship with bugs!</p>
-  <p align='center'> 💻 Currently exploring JAMStack & Serverless</p>
+  <p align='center'> ✔️ <b>Specialized in JavaScript</b></p>
+  <p align='center'> 🛠️ <b>Enthusiastic about Full-stack Development</b></p>
+  <p align='center'> 🌏 <b>Writing about Web Development</b></p>
+  <p align='center'> 🐛 <b>A human who keeps a good relationship with bugs!</b></p>
+  <p align='center'> 💻 <b>Currently exploring JAMStack & Serverless</b></p>
 </p>
 
 
