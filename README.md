@@ -18,7 +18,7 @@
 ---
 
 <p align='center'><a href="https://github.com/murtuzaalisurti">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtuzaalisurti&theme=dark&layout=compact&langs_count=10" />
+  <img src="https://github-readme-stats-murtuzaalisurti.vercel.app/api/top-langs/?username=murtuzaalisurti&theme=dark&layout=compact&langs_count=10" />
 </a></p>
 
 ---
@@ -26,7 +26,7 @@
 <h2 align='center'>Performance</h2>
 
 <p align='center'><a href="https://github.com/murtuzaalisurti">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=murtuzaalisurti&theme=dark&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats-murtuzaalisurti.vercel.app/api?username=murtuzaalisurti&theme=dark&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=murtuzaalisurti&theme=black-ice" />
 </a></p>
 
