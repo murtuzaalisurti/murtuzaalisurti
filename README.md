@@ -64,7 +64,7 @@
 <h2 align='center'>Latest Blog Posts - Syntackle</h2>
 
 <p align='center'>
-<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.live/blog/using-fontsource-with-11ty-FUzgft/'>Using Fontsource With 11ty</a> - Dec 15, 2022</p><p align='center'>• <a href='https://syntackle.live/blog/creating-git-hooks-using-husky-y6LKpN/'>Creating Git Hooks Using Husky</a> - Oct 9, 2022</p><p align='center'>• <a href='https://syntackle.live/blog/setting-background-color-of-body-dynamically-in-react-5tVYr3/'>Setting Background Color of Body Dynamically in React</a> - Sep 3, 2022</p><p align='center'>• <a href='https://syntackle.live/blog/minify-javascript-using-terser-TUYCYJ5y/'>Minify JavaScript Using Terser</a> - Aug 8, 2022</p><p align='center'>• <a href='https://syntackle.live/blog/deploying-react-app-to-netlify-XZ_dWXAd/'>Deploying React App to Netlify</a> - Jul 25, 2022</p><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.live/blog/what-is-dom-diffing-bB8Ltf/'>What is DOM diffing?</a> - Mar 1, 2023</p><p align='center'>• <a href='https://syntackle.live/blog/using-fontsource-with-11ty-FUzgft/'>Using Fontsource With 11ty</a> - Dec 15, 2022</p><p align='center'>• <a href='https://syntackle.live/blog/creating-git-hooks-using-husky-y6LKpN/'>Creating Git Hooks Using Husky</a> - Oct 9, 2022</p><p align='center'>• <a href='https://syntackle.live/blog/setting-background-color-of-body-dynamically-in-react-5tVYr3/'>Setting Background Color of Body Dynamically in React</a> - Sep 3, 2022</p><p align='center'>• <a href='https://syntackle.live/blog/minify-javascript-using-terser-TUYCYJ5y/'>Minify JavaScript Using Terser</a> - Aug 8, 2022</p><!-- BLOG-POST-LIST:END -->
 </p>
 
 <br />
