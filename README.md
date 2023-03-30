@@ -1,13 +1,12 @@
-<h1 align="center">Hey, myself Murtuza!</h1>
-<h3 align='center'><b>Full Stack Developer</b> as well as a <b>Content Creator</b>!</h3>
+<h1 align="center">Murtuzaali Surti 👋</h1>
+<h3 align='center'>Software Engineer, Content Creator, Building <a href="https://syntackle.live">Syntackle</a>!</h3>
 
 ---
 <br />
 
 <p align='center'>
-  <p align='center'> ✔️ <b>Specialized in JavaScript</b></p>
-  <p align='center'> 🛠️ <b>Enthusiastic about Full-stack Development</b></p>
-  <p align='center'> 🌏 <b>Writing about Web Development</b></p>
+  <p align='center'> 🛠️ <b>Specialized in JavaScript</b></p>
+  <p align='center'> 🌏 <b>Writing about the Web</b></p>
   <p align='center'> 🐛 <b>A human who keeps a good relationship with bugs!</b></p>
   <p align='center'> 💻 <b>Currently exploring JAMStack & Serverless</b></p>
 </p>
