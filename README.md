@@ -63,7 +63,7 @@
 <h2 align='center'>Latest Blog Posts - Syntackle</h2>
 
 <p align='center'>
-<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.live/blog/advanced-techniques-for-debugging-and-testing-in-web-development-cmw7iS/'>Debugging and Testing in Web Development</a> - Mar 30, 2023</p><p align='center'>• <a href='https://syntackle.live/blog/why-i-love-markdown-Ib00ES/'>Why I love Markdown</a> - Mar 30, 2023</p><p align='center'>• <a href='https://syntackle.live/blog/what-is-dom-diffing-bB8Ltf/'>What is DOM diffing?</a> - Mar 30, 2023</p><p align='center'>• <a href='https://syntackle.live/blog/using-fontsource-with-11ty-FUzgft/'>Using Fontsource With 11ty</a> - Mar 30, 2023</p><p align='center'>• <a href='https://syntackle.live/blog/creating-git-hooks-using-husky-y6LKpN/'>Creating Git Hooks Using Husky</a> - Mar 30, 2023</p><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.live/blog/advanced-techniques-for-debugging-and-testing-in-web-development-cmw7iS/'>Debugging and Testing in Web Development</a> - Mar 31, 2023</p><p align='center'>• <a href='https://syntackle.live/blog/why-i-love-markdown-Ib00ES/'>Why I love Markdown</a> - Mar 31, 2023</p><p align='center'>• <a href='https://syntackle.live/blog/what-is-dom-diffing-bB8Ltf/'>What is DOM diffing?</a> - Mar 31, 2023</p><p align='center'>• <a href='https://syntackle.live/blog/using-fontsource-with-11ty-FUzgft/'>Using Fontsource With 11ty</a> - Mar 31, 2023</p><p align='center'>• <a href='https://syntackle.live/blog/creating-git-hooks-using-husky-y6LKpN/'>Creating Git Hooks Using Husky</a> - Mar 31, 2023</p><!-- BLOG-POST-LIST:END -->
 </p>
 
 <br />
