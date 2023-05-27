@@ -54,7 +54,7 @@
 
 ---
 
-[![Murtuza's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=murtuzaalisurti&theme=react-dark)](https://github.com/murtuzaalisurti)
+[![Murtuza's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=murtuzaalisurti&theme=react-dark)](https://github.com/murtuzaalisurti)
 
 ---
 
