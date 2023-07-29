@@ -63,7 +63,7 @@
 <h2 align='center'>Latest Blog Posts - Syntackle</h2>
 
 <p align='center'>
-<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.live/blog/containerizing-a-nextjs-application-using-docker-st_G0u/'>Docker — Containerizing a Nextjs Application</a></p><p align='center'>• <a href='https://syntackle.live/blog/websockets-101-JiIrdn/'>WebSockets 101</a></p><p align='center'>• <a href='https://syntackle.live/blog/builder-io-s-partytown-with-11ty-lN6X2w/'>Builder.io&#39;s Partytown with 11ty</a></p><p align='center'>• <a href='https://syntackle.live/blog/advanced-techniques-for-debugging-and-testing-in-web-development-cmw7iS/'>Debugging and Testing in Web Development</a></p><p align='center'>• <a href='https://syntackle.live/blog/why-i-love-markdown-Ib00ES/'>Why I love Markdown</a></p><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.live/blog/containerizing-a-nextjs-application-using-docker-st_G0u/'>Docker — Containerizing a Nextjs Application</a></p><p align='center'>• <a href='https://syntackle.live/blog/websockets-101-JiIrdn/'>WebSockets 101</a></p><p align='center'>• <a href='https://syntackle.live/blog/builder-io-s-partytown-with-11ty-lN6X2w/'>Builder.io&#39;s Partytown with 11ty</a></p><p align='center'>• <a href='https://syntackle.live/blog/why-i-love-markdown-Ib00ES/'>Why I love Markdown</a></p><p align='center'>• <a href='https://syntackle.live/blog/what-is-dom-diffing-bB8Ltf/'>What is DOM diffing?</a></p><!-- BLOG-POST-LIST:END -->
 </p>
 
 <br />
