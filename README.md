@@ -34,7 +34,7 @@
 <h2 align='center'>Languages I've worked with</h2>
 
 <p align='center'>
-  <img src="https://wakatime.com/share/@murtuzaalisurti/c83fa1b8-c978-4caf-94c5-2ac8d76b861f.svg" style="width: 70%; height= auto;" />
+  <img src="https://wakatime.com/share/@murtuzaalisurti/c83fa1b8-c978-4caf-94c5-2ac8d76b861f.svg" style="width: 70%; height: auto;" />
 </p>
 
 ---
