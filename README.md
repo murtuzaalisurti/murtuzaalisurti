@@ -63,7 +63,7 @@
 <h2 align='center'>Latest Blog Posts - Syntackle</h2>
 
 <p align='center'>
-<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV/'>App Defaults 2023 — What I use</a></p><p align='center'>• <a href='https://syntackle.live/blog/elegant-console-logs-p0JYCE/'>Elegant Console Logs With Consola</a></p><p align='center'>• <a href='https://syntackle.live/blog/sharing-localhost-in-vscode-port-forwarding-Kew9D/'>Sharing Localhost From VS Code - Port Forwarding</a></p><p align='center'>• <a href='https://syntackle.live/blog/containerizing-a-nextjs-application-using-docker-st_G0u/'>Docker — Containerizing a Nextjs Application</a></p><p align='center'>• <a href='https://syntackle.live/blog/websockets-101-JiIrdn/'>WebSockets 101</a></p><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.live/blog/completed-advent-of-code-day-1-CPjek/'>Completed Advent Of Code: Day One</a></p><p align='center'>• <a href='https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV/'>App Defaults 2023 — What I use</a></p><p align='center'>• <a href='https://syntackle.live/blog/elegant-console-logs-p0JYCE/'>Elegant Console Logs With Consola</a></p><p align='center'>• <a href='https://syntackle.live/blog/sharing-localhost-in-vscode-port-forwarding-Kew9D/'>Sharing Localhost From VS Code - Port Forwarding</a></p><p align='center'>• <a href='https://syntackle.live/blog/containerizing-a-nextjs-application-using-docker-st_G0u/'>Docker — Containerizing a Nextjs Application</a></p><!-- BLOG-POST-LIST:END -->
 </p>
 
 <br />
