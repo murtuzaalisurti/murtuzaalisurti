@@ -63,7 +63,7 @@
 <h2 align='center'>Latest Blog Posts - Syntackle</h2>
 
 <p align='center'>
-<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.live/blog/web-components-and-custom-elements-5LuzI/'>Web Components &amp; Custom Elements</a></p><p align='center'>• <a href='https://syntackle.live/blog/advent-of-code-2023-day-two-E7Ndz/'>Advent Of Code 2023 - Day Two Solution</a></p><p align='center'>• <a href='https://syntackle.live/blog/completed-advent-of-code-day-1-CPjek/'>Completed Advent Of Code: Day One</a></p><p align='center'>• <a href='https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV/'>App Defaults 2023 — What I use</a></p><p align='center'>• <a href='https://syntackle.live/blog/elegant-console-logs-p0JYCE/'>Elegant Console Logs With Consola</a></p><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.live/blog/advent-of-code-2023-day-four-solution-4SanE/'>Advent Of Code 2023 - Day Four Solution</a></p><p align='center'>• <a href='https://syntackle.live/blog/web-components-and-custom-elements-5LuzI/'>Web Components &amp; Custom Elements</a></p><p align='center'>• <a href='https://syntackle.live/blog/advent-of-code-2023-day-two-E7Ndz/'>Advent Of Code 2023 - Day Two Solution</a></p><p align='center'>• <a href='https://syntackle.live/blog/completed-advent-of-code-day-1-CPjek/'>Completed Advent Of Code: Day One</a></p><p align='center'>• <a href='https://syntackle.live/blog/app-defaults-2023-what-i-use-by-murtuzaali-surti-qhifV/'>App Defaults 2023 — What I use</a></p><!-- BLOG-POST-LIST:END -->
 </p>
 
 <br />
