@@ -6,7 +6,7 @@
 <h2 align='center'>Latest Blog Posts - Syntackle</h2>
 
 <p align='center'>
-<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.com/blog/the-issue-of-watching-file-changes-in-docker/'>Issue With Watching File Changes in Docker</a></p><p align='center'>• <a href='https://syntackle.com/blog/changes-to-scrollbar-styling-in-chrome-121/'>Chrome 121 Broke My CSS By Adopting New Scrollbar Properties</a></p><p align='center'>• <a href='https://syntackle.com/blog/blogroll-using-astro/'>rssed — Become A Developer Beyond Bookmarks</a></p><p align='center'>• <a href='https://syntackle.com/blog/advent-of-code-2023-day-four-solution-4SanE/'>Advent Of Code 2023 - Day Four Solution</a></p><p align='center'>• <a href='https://syntackle.com/blog/web-components-and-custom-elements-5LuzI/'>Web Components &amp; Custom Elements</a></p><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.com/blog/quokka-js-one-of-the-best-vs-code-extensions-for-javascript/'>Quokka in VS Code — JavaScript Debugging Made Simpler</a></p><p align='center'>• <a href='https://syntackle.com/blog/the-issue-of-watching-file-changes-in-docker/'>Issue With Watching File Changes in Docker</a></p><p align='center'>• <a href='https://syntackle.com/blog/changes-to-scrollbar-styling-in-chrome-121/'>Chrome 121 Broke My CSS By Adopting New Scrollbar Properties</a></p><p align='center'>• <a href='https://syntackle.com/blog/blogroll-using-astro/'>rssed — Become A Developer Beyond Bookmarks</a></p><p align='center'>• <a href='https://syntackle.com/blog/advent-of-code-2023-day-four-solution-4SanE/'>Advent Of Code 2023 - Day Four Solution</a></p><!-- BLOG-POST-LIST:END -->
 </p>
 
 <br />
