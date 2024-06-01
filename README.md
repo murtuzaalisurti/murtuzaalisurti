@@ -6,7 +6,7 @@
 <h2 align='center'>Latest Blog Posts - Syntackle</h2>
 
 <p align='center'>
-<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.com/blog/form-handling-in-react-19/'>React 19 - A Brief Look At Form Handling</a></p><p align='center'>• <a href='https://syntackle.com/blog/static-sites-are-good/'>Static Sites Are Good</a></p><p align='center'>• <a href='https://syntackle.com/blog/quokka-js-one-of-the-best-vs-code-extensions-for-javascript/'>Quokka in VS Code — JavaScript Debugging Made Simpler</a></p><p align='center'>• <a href='https://syntackle.com/blog/the-issue-of-watching-file-changes-in-docker/'>Issue With Watching File Changes in Docker</a></p><p align='center'>• <a href='https://syntackle.com/blog/changes-to-scrollbar-styling-in-chrome-121/'>Chrome 121 Broke My CSS By Adopting New Scrollbar Properties</a></p><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.com/blog/back-to-top-web-component/'>Creating My First Web Component: The &lt;back-to-top&gt; Button</a></p><p align='center'>• <a href='https://syntackle.com/blog/form-handling-in-react-19/'>React 19 - A Brief Look At Form Handling</a></p><p align='center'>• <a href='https://syntackle.com/blog/static-sites-are-good/'>Static Sites Are Good</a></p><p align='center'>• <a href='https://syntackle.com/blog/quokka-js-one-of-the-best-vs-code-extensions-for-javascript/'>Quokka in VS Code — JavaScript Debugging Made Simpler</a></p><p align='center'>• <a href='https://syntackle.com/blog/the-issue-of-watching-file-changes-in-docker/'>Issue With Watching File Changes in Docker</a></p><!-- BLOG-POST-LIST:END -->
 </p>
 
 <br />
