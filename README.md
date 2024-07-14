@@ -6,7 +6,7 @@
 <h2 align='center'>Latest Blog Posts - Syntackle</h2>
 
 <p align='center'>
-<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.com/blog/window-ai-in-chrome/'>I tried &quot;window.ai&quot; in Chrome</a></p><p align='center'>• <a href='https://syntackle.com/blog/node-http-server-using-hono/'>Create a Node Server using Hono under 10 Lines of Code</a></p><p align='center'>• <a href='https://syntackle.com/blog/pagefind-search-in-astro-site/'>Integrate Pagefind&#39;s Search with Astro: A Complete Setup Guide</a></p><p align='center'>• <a href='https://syntackle.com/blog/running-postgresql-using-docker/'>Running PostgreSQL using Docker</a></p><p align='center'>• <a href='https://syntackle.com/blog/back-to-top-web-component/'>Creating My First Web Component: The &lt;back-to-top&gt; Button</a></p><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><p align='center'>• <a href='https://syntackle.com/blog/five-newsletters-every-developer-should-read/'>5 Newsletters Every Developer Should Read</a></p><p align='center'>• <a href='https://syntackle.com/blog/window-ai-in-chrome/'>I tried &quot;window.ai&quot; in Chrome</a></p><p align='center'>• <a href='https://syntackle.com/blog/node-http-server-using-hono/'>Create a Node Server using Hono under 10 Lines of Code</a></p><p align='center'>• <a href='https://syntackle.com/blog/pagefind-search-in-astro-site/'>Integrate Pagefind&#39;s Search with Astro: A Complete Setup Guide</a></p><p align='center'>• <a href='https://syntackle.com/blog/running-postgresql-using-docker/'>Running PostgreSQL using Docker</a></p><!-- BLOG-POST-LIST:END -->
 </p>
 
 <br />
