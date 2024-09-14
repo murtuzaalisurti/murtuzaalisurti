@@ -4,6 +4,12 @@ I break and fix code as a software engineer. Bugs are on my most wanted list. I 
 
 Some of my recent writings:
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Server Sent Events 101](https://syntackle.com/blog/server-sent-events/)
+- [&quot;this&quot; Keyword in Arrow Functions](https://syntackle.com/blog/this-keyword-in-arrow-functions-javascript/)
+- [5 Newsletters Every Developer Should Read](https://syntackle.com/blog/five-newsletters-every-developer-should-read/)
+- [I tried &quot;window.ai&quot; in Chrome](https://syntackle.com/blog/window-ai-in-chrome/)
+- [Create a Node Server using Hono under 10 Lines of Code](https://syntackle.com/blog/node-http-server-using-hono/)
+<!-- BLOG-POST-LIST:END -->
 
 Feel free to reach out on my [socials](https://murtuzaalisurti.github.io/#socials). And, lastly, I love open-source ❤️.
