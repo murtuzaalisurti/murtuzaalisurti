@@ -21,4 +21,4 @@ jobs:
           disable_sort: true
           max_post_count: 5
           date_format: "mmm d, yyyy"
-          template: "- [$title]($url)"
+          template: "- [$title]($url)\n"
