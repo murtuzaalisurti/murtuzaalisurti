@@ -13,11 +13,11 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
+- [Mac Setup For Developers](https://syntackle.com/blog/mac-setup-for-developers/)
 - [Better - An AI powered Code Reviewer](https://syntackle.com/blog/ai-powered-code-review-tool-better/)
 - [Server Sent Events 101](https://syntackle.com/blog/server-sent-events/)
 - [&quot;this&quot; Keyword in Arrow Functions](https://syntackle.com/blog/this-keyword-in-arrow-functions-javascript/)
 - [5 Newsletters Every Developer Should Read](https://syntackle.com/blog/five-newsletters-every-developer-should-read/)
-- [I tried &quot;window.ai&quot; in Chrome](https://syntackle.com/blog/window-ai-in-chrome/)
 <!-- BLOG-POST-LIST:END -->
 
 Feel free to reach out on my [socials](https://murtuzaalisurti.github.io/#socials). And, lastly, I love open-source. ❤️
