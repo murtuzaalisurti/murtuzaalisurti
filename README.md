@@ -13,7 +13,7 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mac Setup For Developers](https://syntackle.com/blog/mac-setup-for-developers/)
+- [Mac Setup For Developers [2024]](https://syntackle.com/blog/mac-setup-for-developers/)
 - [Better - An AI powered Code Reviewer](https://syntackle.com/blog/ai-powered-code-review-tool-better/)
 - [Server Sent Events 101](https://syntackle.com/blog/server-sent-events/)
 - [&quot;this&quot; Keyword in Arrow Functions](https://syntackle.com/blog/this-keyword-in-arrow-functions-javascript/)
