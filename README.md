@@ -14,7 +14,7 @@ Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
 - [3 Steps To Think Like A Developer](https://syntackle.com/blog/looking-at-a-problem-as-a-developer/)
-- [Mac Setup For Developers [2024]](https://syntackle.com/blog/mac-setup-for-developers/)
+- [Mac Setup For Developers [2025]](https://syntackle.com/blog/mac-setup-for-developers/)
 - [Better - An AI powered Code Reviewer](https://syntackle.com/blog/ai-powered-code-review-tool-better/)
 - [Server Sent Events 101](https://syntackle.com/blog/server-sent-events/)
 - [&quot;this&quot; Keyword in Arrow Functions](https://syntackle.com/blog/this-keyword-in-arrow-functions-javascript/)
