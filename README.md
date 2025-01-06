@@ -13,7 +13,7 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Steps To Think Like A Developer](https://syntackle.com/blog/looking-at-a-problem-as-a-developer/)
+- [3 Steps To Think Like A Software Developer](https://syntackle.com/blog/looking-at-a-problem-as-a-developer/)
 - [Mac Setup For Developers [2025]](https://syntackle.com/blog/mac-setup-for-developers/)
 - [Better - An AI powered Code Reviewer](https://syntackle.com/blog/ai-powered-code-review-tool-better/)
 - [Server Sent Events 101](https://syntackle.com/blog/server-sent-events/)
