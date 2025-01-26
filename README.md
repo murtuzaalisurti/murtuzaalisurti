@@ -13,11 +13,11 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
+- [10 VSCode Extensions I Use [2025]](https://syntackle.com/blog/vscode-extensions-2025/)
 - [Issue With NVM Node Version Across Terminals: Command Node Not Found](https://syntackle.com/blog/nvm-node-issue-command-not-found/)
 - [App Defaults 2025 - with some AI stuff](https://syntackle.com/blog/best-apps-to-use-in-2025/)
 - [3 Steps To Think Like A Software Developer](https://syntackle.com/blog/looking-at-a-problem-as-a-developer/)
 - [Mac Setup For Developers [2025]](https://syntackle.com/blog/mac-setup-for-developers/)
-- [Better - An AI powered Code Reviewer](https://syntackle.com/blog/ai-powered-code-review-tool-better/)
 <!-- BLOG-POST-LIST:END -->
 
 Feel free to reach out on my [socials](https://murtuzaalisurti.github.io/#socials). And, lastly, I love open-source. ❤️
