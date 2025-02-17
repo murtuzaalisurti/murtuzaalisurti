@@ -13,7 +13,7 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create React App &lpar;CRA&rpar; is Deprecated: What&#39;s Next?](https://syntackle.com/blog/create-react-app-deprecated/)
+- [Create React App &lpar;CRA&rpar; is Deprecated, Officially: What&#39;s Next?](https://syntackle.com/blog/create-react-app-deprecated/)
 - [How to Use DeepSeek-R1 AI Model: A Comprehensive Guide](https://syntackle.com/blog/deepseek-ai-model-and-openrouter/)
 - [React Compiler Integration With Astro &lpar;Vite&rpar;](https://syntackle.com/blog/integrating-react-compiler-with-astro/)
 - [11 VSCode Extensions I Use [2025]](https://syntackle.com/blog/vscode-extensions-2025/)
