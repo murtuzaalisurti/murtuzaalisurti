@@ -15,7 +15,7 @@ Some of my recent writings:
 <!-- BLOG-POST-LIST:START -->
 - [How to Use Custom API Keys with GitHub Copilot](https://syntackle.com/blog/github-copilot-with-custom-api-key/)
 - [TypeScript Switches To Go — What Does This Mean for Developers?](https://syntackle.com/blog/typescript-go-port/)
-- [Eleventy&#39;s Image Plugin Disk Caching Approach For HTML Transform Method](https://syntackle.com/blog/eleventy-image-html-transform-plugin-disk-cache/)
+- [Eleventy Image Disk Caching Approach — @11ty/eleventy-img](https://syntackle.com/blog/eleventy-image-html-transform-plugin-disk-cache/)
 - [Claude 3.7 Sonnet, OpenAI&#39;s GPT 4.5 and Microsoft&#39;s Quantum Chip](https://syntackle.com/blog/claude-3-7-sonnet-openai-gpt-4-5-majorana-1/)
 - [Leveraging Deep Research by Building Your Online Presence](https://syntackle.com/blog/leveraging-deep-research-by-building-an-online-presence/)
 <!-- BLOG-POST-LIST:END -->
