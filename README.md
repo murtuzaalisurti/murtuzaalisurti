@@ -13,11 +13,11 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP: The HTTP for AI — What, How, and Why](https://syntackle.com/blog/model-context-protocol/)
 - [How to Use Custom API Keys with GitHub Copilot](https://syntackle.com/blog/github-copilot-with-custom-api-key/)
 - [TypeScript Switches To Go — What Does This Mean for Developers?](https://syntackle.com/blog/typescript-go-port/)
 - [Eleventy Image Disk Caching Approach — @11ty/eleventy-img](https://syntackle.com/blog/eleventy-image-html-transform-plugin-disk-cache/)
 - [Claude 3.7 Sonnet, OpenAI&#39;s GPT 4.5 and Microsoft&#39;s Quantum Chip](https://syntackle.com/blog/claude-3-7-sonnet-openai-gpt-4-5-majorana-1/)
-- [Leveraging Deep Research by Building Your Online Presence](https://syntackle.com/blog/leveraging-deep-research-by-building-an-online-presence/)
 <!-- BLOG-POST-LIST:END -->
 
 Feel free to reach out on my [socials](https://murtuzaalisurti.github.io/#socials). And, lastly, I love open-source. ❤️
