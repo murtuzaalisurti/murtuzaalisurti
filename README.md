@@ -13,7 +13,7 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP: The HTTP for AI? What, How, and Why](https://syntackle.com/blog/model-context-protocol/)
+- [MCP &lpar;Model Context Protocol&rpar;: The HTTP for AI? — What, How, and Why](https://syntackle.com/blog/model-context-protocol/)
 - [How to Use Custom API Keys with GitHub Copilot](https://syntackle.com/blog/github-copilot-with-custom-api-key/)
 - [TypeScript Switches To Go — What Does This Mean for Developers?](https://syntackle.com/blog/typescript-go-port/)
 - [Eleventy Image Disk Caching Approach — @11ty/eleventy-img](https://syntackle.com/blog/eleventy-image-html-transform-plugin-disk-cache/)
