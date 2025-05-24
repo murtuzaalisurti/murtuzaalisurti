@@ -16,7 +16,7 @@ Some of my recent writings:
 - [Ice — The Most Useful Mac App — Menu Bar Management Made Easy](https://syntackle.com/blog/the-most-useful-macos-app/)
 - [The Problem With AI Generated Code And How To Deal With It](https://syntackle.com/blog/the-problem-with-ai-generated-code/)
 - [MCP &lpar;Model Context Protocol&rpar; Explained — All You Need To Know](https://syntackle.com/blog/model-context-protocol/)
-- [How to Use Custom API Keys with GitHub Copilot](https://syntackle.com/blog/github-copilot-with-custom-api-key/)
+- [How to Use Custom API Keys with GitHub Copilot — Bring Your Own Key &lpar;BYOK&rpar;](https://syntackle.com/blog/github-copilot-with-custom-api-key/)
 - [TypeScript Switches To Go — What Does This Mean for Developers?](https://syntackle.com/blog/typescript-go-port/)
 <!-- BLOG-POST-LIST:END -->
 
