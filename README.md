@@ -13,7 +13,7 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Best Places To Learn React](https://syntackle.com/blog/best-places-to-learn-react/)
+- [5 Best Places To Learn React For Free](https://syntackle.com/blog/best-places-to-learn-react/)
 - [Ice — A Free Alternative To Bartender — Menu Bar Management Made Easy](https://syntackle.com/blog/the-most-useful-macos-app/)
 - [The Problem With AI Generated Code And How To Deal With It](https://syntackle.com/blog/the-problem-with-ai-generated-code/)
 - [MCP &lpar;Model Context Protocol&rpar; Explained — All You Need To Know](https://syntackle.com/blog/model-context-protocol/)
