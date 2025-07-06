@@ -13,7 +13,7 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run SQL Server on a Mac](https://syntackle.com/blog/sql-server-on-macos-and-linux/)
+- [How to Run SQL Server on a Mac: A Step By Step Guide](https://syntackle.com/blog/sql-server-on-macos-and-linux/)
 - [Vite 7.0 — All Major Changes](https://syntackle.com/blog/vite-7-is-here/)
 - [5 Best Places To Learn React For Free](https://syntackle.com/blog/best-places-to-learn-react/)
 - [Ice — A Free Alternative To Bartender — Menu Bar Management Made Easy](https://syntackle.com/blog/the-most-useful-macos-app/)
