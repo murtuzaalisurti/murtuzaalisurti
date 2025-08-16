@@ -13,11 +13,11 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding — The Fast Food of Coding](https://syntackle.com/blog/vibe-coding/)
 - [How to Run SQL Server on a Mac: A Step By Step Guide](https://syntackle.com/blog/sql-server-on-macos-and-linux/)
 - [Vite 7.0 — All Major Changes](https://syntackle.com/blog/vite-7-is-here/)
 - [5 Best Places To Learn React For Free](https://syntackle.com/blog/best-places-to-learn-react/)
 - [Ice — A Free Alternative To Bartender — Menu Bar Management Made Easy](https://syntackle.com/blog/the-most-useful-macos-app/)
-- [The Problem With AI Generated Code And How To Deal With It](https://syntackle.com/blog/the-problem-with-ai-generated-code/)
 <!-- BLOG-POST-LIST:END -->
 
 Feel free to reach out on my [socials](https://murtuzaalisurti.github.io/#socials). And, lastly, I love open-source. ❤️
