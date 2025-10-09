@@ -13,7 +13,7 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
-- [From OpenAI&#39;s Chat Completions and Assistants API to the Responses API: A Complete Migration Guide](https://syntackle.com/blog/openai-assistants-to-responses-api/)
+- [OpenAI&#39;s Assistants API is Deprecated: Migrate to the New Responses API](https://syntackle.com/blog/openai-assistants-to-responses-api/)
 - [The Minimal React App Setup You Need [2025]](https://syntackle.com/blog/the-minimal-react-setup-you-need/)
 - [Vibe Coding — The Fast Food of Coding](https://syntackle.com/blog/vibe-coding/)
 - [How to Run SQL Server on a Mac: A Step By Step Guide](https://syntackle.com/blog/sql-server-on-macos-and-linux/)
