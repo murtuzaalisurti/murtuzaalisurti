@@ -13,11 +13,11 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
+- [Fixing the overscroll &quot;bounce&quot; effect with CSS](https://syntackle.com/blog/overscroll-behavior-css/)
 - [OpenAI&#39;s Assistants API is Deprecated: Migrate to the New Responses API](https://syntackle.com/blog/openai-assistants-to-responses-api/)
 - [The Minimal React App Setup You Need [2025]](https://syntackle.com/blog/the-minimal-react-setup-you-need/)
 - [Vibe Coding — The Fast Food of Coding](https://syntackle.com/blog/vibe-coding/)
 - [How to Run SQL Server on a Mac: A Step By Step Guide](https://syntackle.com/blog/sql-server-on-macos-and-linux/)
-- [Vite 7.0 — All Major Changes](https://syntackle.com/blog/vite-7-is-here/)
 <!-- BLOG-POST-LIST:END -->
 
 Feel free to reach out on my [socials](https://murtuzaalisurti.github.io/#socials). And, lastly, I love open-source. ❤️
