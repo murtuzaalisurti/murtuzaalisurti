@@ -13,11 +13,11 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflections on the AWS &amp; Azure Outages](https://syntackle.com/blog/reflections-on-the-aws-and-azure-outage/)
 - [[React] useEffectEvent: A New Hook For &#39;Events&#39; inside &#39;useEffect&#39;](https://syntackle.com/blog/useeffectevent-react/)
 - [Side Effect Import Issue in TypeScript](https://syntackle.com/blog/ts-side-effect-import-issue/)
 - [Fixing the overscroll &quot;bounce&quot; effect with CSS](https://syntackle.com/blog/overscroll-behavior-css/)
 - [OpenAI&#39;s Assistants API is Deprecated: Migrate to the New Responses API](https://syntackle.com/blog/openai-assistants-to-responses-api/)
-- [The Minimal React App Setup You Need [2025]](https://syntackle.com/blog/the-minimal-react-setup-you-need/)
 <!-- BLOG-POST-LIST:END -->
 
 Feel free to reach out on my [socials](https://murtuzaalisurti.github.io/#socials). And, lastly, I love open-source. ❤️
