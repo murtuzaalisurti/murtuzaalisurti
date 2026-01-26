@@ -13,11 +13,11 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Gemini OAuth Plugin for Opencode: Use Your Google AI Subscription Instead of API Pricing](https://syntackle.com/blog/google-gemini-ai-subscription-with-opencode/)
 - [How to Use Free Antigravity AI Models in Claude Code](https://syntackle.com/blog/claude-code-free-using-antigravity-proxy/)
 - [React2Shell Vulnerabilities — What to do?](https://syntackle.com/blog/react2shell-vulnerabilities/)
 - [Google&#39;s Gemini 3 Pro, Nano Banana Pro, and Antigravity](https://syntackle.com/blog/gemini-3-pro-and-nano-banana-pro-and-antigravity/)
 - [Reflections on the AWS &amp; Azure Outages](https://syntackle.com/blog/reflections-on-the-aws-and-azure-outage/)
-- [[React] useEffectEvent: A New Hook For &#39;Events&#39; inside &#39;useEffect&#39;](https://syntackle.com/blog/useeffectevent-react/)
 <!-- BLOG-POST-LIST:END -->
 
 Feel free to reach out on my [socials](https://murtuzaalisurti.github.io/#socials). And, lastly, I love open-source. ❤️
