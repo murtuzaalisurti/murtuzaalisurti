@@ -13,11 +13,11 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source AI Coding Agents to Try for Free](https://syntackle.com/blog/opensource-ai-coding-agents-to-try/)
 - [A Million Token Context Window Isn&#39;t What You Think It Is](https://syntackle.com/blog/long-context-window-ai-model-catch/)
 - [Google Gemini OAuth Plugin for Opencode: Use Your Google AI Subscription Instead of API Pricing](https://syntackle.com/blog/google-gemini-ai-subscription-with-opencode/)
 - [How to Use Free Antigravity AI Models in Claude Code](https://syntackle.com/blog/claude-code-free-using-antigravity-proxy/)
 - [React2Shell Vulnerabilities — What to do?](https://syntackle.com/blog/react2shell-vulnerabilities/)
-- [Google&#39;s Gemini 3 Pro, Nano Banana Pro, and Antigravity](https://syntackle.com/blog/gemini-3-pro-and-nano-banana-pro-and-antigravity/)
 <!-- BLOG-POST-LIST:END -->
 
 Feel free to reach out on my [socials](https://murtuzaalisurti.github.io/#socials). And, lastly, I love open-source. ❤️
