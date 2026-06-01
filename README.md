@@ -13,7 +13,7 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
-- [Malicious VSCode Extensions, Node.js 26 &amp; Antigravity&#39;s End — The Weekly Diff #1](https://syntackle.com/blog/malicious-vscode-extensions-node-js-26-antigravity-s-end-%E2%80%94-the-weekly-diff-1/)
+- [Malicious VSCode Extensions, Node.js 26 &amp; Antigravity&#39;s End — The Weekly Diff #1](https://syntackle.com/blog/malicious-vscode-extensions-node-js-26-antigravity-s-end-the-weekly-diff-1/)
 - [Open Source AI Coding Agents to Try for Free](https://syntackle.com/blog/opensource-ai-coding-agents-to-try/)
 - [A Million Token Context Window Isn&#39;t What You Think It Is](https://syntackle.com/blog/long-context-window-ai-model-catch/)
 - [Google Gemini OAuth Plugin for Opencode: Use Your Google AI Subscription Instead of API Pricing](https://syntackle.com/blog/google-gemini-ai-subscription-with-opencode/)
