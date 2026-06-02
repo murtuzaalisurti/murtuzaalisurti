@@ -13,11 +13,11 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Opus 4.8, OpenRouter&#39;s $113M Round &amp; SQLite&#39;s Anti-AI Stance — The Weekly Diff #2](https://syntackle.com/blog/claude-opus-4-8-openrouter-s-113m-round-sqlite-s-anti-ai-stance-the-weekly-diff-2/)
 - [Malicious VSCode Extensions, Node.js 26 &amp; Antigravity&#39;s End — The Weekly Diff #1](https://syntackle.com/blog/malicious-vscode-extensions-node-js-26-antigravity-s-end-the-weekly-diff-1/)
 - [Open Source AI Coding Agents to Try for Free](https://syntackle.com/blog/opensource-ai-coding-agents-to-try/)
 - [A Million Token Context Window Isn&#39;t What You Think It Is](https://syntackle.com/blog/long-context-window-ai-model-catch/)
 - [Google Gemini OAuth Plugin for Opencode: Use Your Google AI Subscription Instead of API Pricing](https://syntackle.com/blog/google-gemini-ai-subscription-with-opencode/)
-- [How to Use Free Antigravity AI Models in Claude Code](https://syntackle.com/blog/claude-code-free-using-antigravity-proxy/)
 <!-- BLOG-POST-LIST:END -->
 
 Feel free to reach out on my [socials](https://murtuzaalisurti.github.io/#socials). And, lastly, I love open-source. ❤️
