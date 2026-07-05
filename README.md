@@ -13,11 +13,11 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
+- [Fable 5 Returns, HackerRank&#39;s Flaky ATS &amp; ZCode&#39;s GLM-5.2 Harness — The Weekly Diff #6](https://syntackle.com/blog/fable-5-returns-hackerrank-s-flaky-ats-zcode-s-glm-5-2-harness-the-weekly-diff-6/)
 - [OpenAI &amp; Anthropic&#39;s AI Model Lockdown, Open Models Rise &amp; Google&#39;s Firing — The Weekly Diff #5](https://syntackle.com/blog/openai-anthropic-s-ai-model-lockdown-open-models-rise-google-s-firing-the-weekly-diff-5/)
 - [GLM-5.2&#39;s Open-Weights Lead, DeepSeek Gains Vision &amp; Lore Challenges Git — The Weekly Diff #4](https://syntackle.com/blog/glm-5-2-s-open-weights-lead-deepseek-gains-vision-lore-challenges-git-the-weekly-diff-4/)
 - [SpaceX Buys Cursor, The Fable Ban &amp; Apple&#39;s Container Machines — The Weekly Diff #3](https://syntackle.com/blog/spacex-buys-cursor-homebrew-6-0-apple-s-macos-containers-the-weekly-diff-3/)
 - [Claude Opus 4.8, OpenRouter&#39;s $113M Round &amp; SQLite&#39;s Anti-AI Stance — The Weekly Diff #2](https://syntackle.com/blog/claude-opus-4-8-openrouter-s-113m-round-sqlite-s-anti-ai-stance-the-weekly-diff-2/)
-- [Malicious VSCode Extensions, Node.js 26 &amp; Antigravity&#39;s End — The Weekly Diff #1](https://syntackle.com/blog/malicious-vscode-extensions-node-js-26-antigravity-s-end-the-weekly-diff-1/)
 <!-- BLOG-POST-LIST:END -->
 
 Feel free to reach out on my [socials](https://murtuzaalisurti.github.io/#socials). And, lastly, I love open-source. ❤️
