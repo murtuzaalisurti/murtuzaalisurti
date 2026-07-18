@@ -13,7 +13,7 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript 7, $10K AI Slop Removal &amp; Claude Code&#39;s Token Bloat - The Weekly Diff #7](https://syntackle.com/blog/typescript-7-10k-ai-slop-cleanup-claude-code-s-token-bloat-the-weekly-diff-7/)
+- [TypeScript 7, $10,000 AI Slop Removal and Claude Code&#39;s Token Bloat - The Weekly Diff #7](https://syntackle.com/blog/typescript-7-10k-ai-slop-cleanup-claude-code-s-token-bloat-the-weekly-diff-7/)
 - [Why Every AI Lab Now Ships Its Own Harness](https://syntackle.com/blog/why-every-ai-lab-now-ships-its-own-harness/)
 - [Fable 5 Returns, HackerRank&#39;s Flaky ATS &amp; ZCode&#39;s GLM-5.2 Harness — The Weekly Diff #6](https://syntackle.com/blog/fable-5-returns-hackerrank-s-flaky-ats-zcode-s-glm-5-2-harness-the-weekly-diff-6/)
 - [OpenAI &amp; Anthropic&#39;s AI Model Lockdown, Open Models Rise &amp; Google&#39;s Firing — The Weekly Diff #5](https://syntackle.com/blog/openai-anthropic-s-ai-model-lockdown-open-models-rise-google-s-firing-the-weekly-diff-5/)
