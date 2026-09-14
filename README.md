@@ -13,11 +13,11 @@ npx murtuzaalisurti
 Some of my recent writings:
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI Slowdown Pact, Nvidia&#39;s $13B Hugging Face Deal &amp; the RubyGems Attack - The Weekly Diff #10](https://syntackle.com/blog/the-ai-slowdown-pact-nvidia-s-13b-hugging-face-deal-the-rubygems-attack-the-weekly-diff-10/)
+- [i love tldraw offline, here&#39;s why](https://syntackle.com/blog/tldraw-offline-is-a-whiteboard-your-coding-agent-can-draw-on/)
 - [Cache Tokens Explained](https://syntackle.com/blog/cache-tokens-explained/)
 - [Should Your Website Serve Markdown to AI Agents?](https://syntackle.com/blog/should-your-website-serve-markdown-to-ai-agents/)
 - [Stripe&#39;s $7B OpenRouter Deal, Cursor&#39;s GitHub Rival &amp; the Token Broker Economy - The Weekly Diff #9](https://syntackle.com/blog/stripe-s-7b-openrouter-deal-cursor-s-github-rival-the-token-broker-economy-the-weekly-diff-9/)
-- [Stacked PRs in GitHub, Gemma 4 on Mac &amp; Kimi K3 - The Weekly Diff #8](https://syntackle.com/blog/github-stacked-prs-gemma-4-on-mac-kimi-k3-the-weekly-diff-8/)
-- [Why Some AI Models Work Great On Low Effort And Others Don&#39;t](https://syntackle.com/blog/why-some-ai-models-work-great-on-low-effort-and-others-don-t/)
 <!-- BLOG-POST-LIST:END -->
 
 Feel free to reach out on my [socials](https://murtuzaalisurti.github.io/#socials). And, lastly, I love open-source. ❤️
